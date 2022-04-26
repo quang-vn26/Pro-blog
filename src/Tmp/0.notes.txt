@@ -14,7 +14,7 @@ Git status: trạng thái
 Git add .: 
 git log: ghi chú
 Exit terminal trong git: q hoặc ctrl+Z
-
+git log --oneline: git 1 các log trong 1 dòng commits 
 
 https://www.youtube.com/watch?v=tlTdbc5byAs&list=PLj-4DlPRT48lGpll2kC4wOsLj7SEV_lYu&index=4
 http://localhost:3000/
