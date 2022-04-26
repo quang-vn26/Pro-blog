@@ -1,0 +1,21 @@
+1.Chạy server: 
+yarn start
+
+2. Copy dòng code hiện tại nhấn tổ hợp: Shift+Alt+dấu xuống
+
+3. Ctrl+D: để chọn nhiều đối tượng cùng tên
+
+4. Ctrl+Tab: Để chuyển giữa các Tab
+
+5. rfc để tạo nội dung tự động nhanh hơn
+
+6. Sử dụng git
+Git status: trạng thái
+Git add .: 
+git log: ghi chú
+Exit terminal trong git: q hoặc ctrl+Z
+
+
+https://www.youtube.com/watch?v=tlTdbc5byAs&list=PLj-4DlPRT48lGpll2kC4wOsLj7SEV_lYu&index=4
+http://localhost:3000/
+https://hiddengemteam.com/category/project/

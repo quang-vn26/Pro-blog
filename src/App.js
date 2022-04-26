@@ -1,9 +1,14 @@
-
+import TopBar from "./topbar/TopBar";
+import Home from "./pages/Home";
 function App() {
   return (
-    <div className="App">
-      HidenGem
-    </div>
+    <>
+    <TopBar/>
+    <Home/>
+    {/* <p>test</p>
+    <p>test</p>
+    <p>test</p> */}
+    </>
   );
 }
 
