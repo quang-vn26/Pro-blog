@@ -19,3 +19,4 @@ git log --oneline: git 1 các log trong 1 dòng commits
 https://www.youtube.com/watch?v=tlTdbc5byAs&list=PLj-4DlPRT48lGpll2kC4wOsLj7SEV_lYu&index=4
 http://localhost:3000/
 https://hiddengemteam.com/category/project/
+https://www.tutorialspoint.com/git/git_basic_concepts.htm
