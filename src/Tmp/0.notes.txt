@@ -21,6 +21,14 @@ On Windows: Shift + Alt + Up/Down.
 On Mac: Shift + Option + Up/Down.
 On Ubuntu: Ctrl + Shift + Alt + Up/Down.
 
+
+
+
+
+css:
+Chiều cao khung nhìn (vh) & chiều rộng khung nhìn (vw)
+fz20: là gõ ra ont-size 20px
+
 https://www.youtube.com/watch?v=tlTdbc5byAs&list=PLj-4DlPRT48lGpll2kC4wOsLj7SEV_lYu&index=4
 http://localhost:3000/
 https://hiddengemteam.com/category/project/

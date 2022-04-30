@@ -10,7 +10,7 @@ export default function singlePost() {
           className="singlePostImg"
         />
         <h1 className="singlePostTitle">
-          Tieu de bai viet
+          Tiêu đề bài viết
           <div className="singlePostEdit">
             <i className="singlePostIcon far fa-edit"></i>
             <i className="singlePostIcon far fa-trash-alt"></i>
