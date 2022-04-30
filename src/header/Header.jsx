@@ -7,7 +7,11 @@ export default function Header() {
         <span className="headerTitleSm">HIDDEN GEM</span>
         <span className="headerTitleLg">BLOG</span>
       </div>
-      <img className="headerImg" src={require("../images/hidengem.png")} alt="" />
+      <img
+        className="headerImg"
+        src={require("../images/hidengem.png")}
+        alt=""
+      />
     </div>
   );
 }

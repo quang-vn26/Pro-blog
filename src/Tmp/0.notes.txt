@@ -16,6 +16,11 @@ git log: ghi chú
 Exit terminal trong git: q hoặc ctrl+Z
 git log --oneline: git 1 các log trong 1 dòng commits 
 
+7. Cach duplicate 1 dòng sư dụng
+On Windows: Shift + Alt + Up/Down.
+On Mac: Shift + Option + Up/Down.
+On Ubuntu: Ctrl + Shift + Alt + Up/Down.
+
 https://www.youtube.com/watch?v=tlTdbc5byAs&list=PLj-4DlPRT48lGpll2kC4wOsLj7SEV_lYu&index=4
 http://localhost:3000/
 https://hiddengemteam.com/category/project/
