@@ -15,6 +15,9 @@ Git add .:
 git log: ghi chú
 Exit terminal trong git: q hoặc ctrl+Z
 git log --oneline: git 1 các log trong 1 dòng commits 
+git branch -a: show het cac branch
+git checkout blog-rest-api: de vao nhanh ....
+
 
 7. Cach duplicate 1 dòng sư dụng
 On Windows: Shift + Alt + Up/Down.
